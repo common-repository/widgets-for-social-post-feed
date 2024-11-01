@@ -1,0 +1,17 @@
+{
+    "landingPage": "/wp-admin/admin.php?page=widgets-for-social-post-feed%2Fadmin.php",
+    "features": {
+        "networking": true
+    },
+    "steps": [
+        {
+            "step": "login"
+        },
+        {
+            "step": "setSiteOptions",
+            "options": {
+                "trustindex-feed-facebook-preview": "1"
+            }
+        }
+    ]
+}
